@@ -1,4 +1,5 @@
-Run composer install
+Run composer install.
+
 Run npm install
 Create file .env (cp .env.example)
 Config database
